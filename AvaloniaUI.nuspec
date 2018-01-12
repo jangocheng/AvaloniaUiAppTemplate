@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>avaloniaui.app</id>
+        <version>2.0.0</version>
+        <title>avaloniaui.app</title>
+        <authors>AvaloniaUI</authors>
+        <projectUrl>https://github.com/AvaloniaUI/Avalonia</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <description>"dotnet new" template to create app with AvaloniaUI.</description>
+        <copyright>AvaloniaUI</copyright>
+        <tags>dotnet new AvaloniaUI gui template</tags>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+
+    <files>
+        <file src="AvaloniaUI\**"/>
+    </files>
+</package>
