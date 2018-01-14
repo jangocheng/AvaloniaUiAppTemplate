@@ -1,0 +1,11 @@
+{
+    "author": "AvaloniaUI",
+    "classifications": [".Net Core", "dotnet", "template", "gui","avalonia"], 
+    "name": "AvaloniaUI GUI app",
+    "identity": "Core.AvaloniaUI.Template", 
+    "shortName": "avaloniaui",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "AvaloniaAppTemplate"
+}
